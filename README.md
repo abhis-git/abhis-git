@@ -8,6 +8,26 @@
 
 ###
 
+<br>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhis-git.abhis-git" style="width: 100px; height: auto;">
+</div>
+
+
+###
+<br>
+
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=shadow_red&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhis-git&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
+
+<br>
+
+
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
