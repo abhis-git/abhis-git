@@ -18,8 +18,8 @@
 ###
 <br>
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=shadow_red&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhis-git&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
