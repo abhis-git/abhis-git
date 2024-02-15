@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhis-git/abhis-git" style="width: 100px; height: auto;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhis-git" style="width: 100px; height: auto;">
 </div>
 
 
