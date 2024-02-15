@@ -10,7 +10,10 @@
 
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23263759)
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23263759" style="width: 100px; height: auto;">
+</div>
+
 
 ###
 <br>
