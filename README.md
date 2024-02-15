@@ -10,10 +10,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhis-git" style="width: 100px; height: auto;">
-</div>
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23263759)
 
 ###
 <br>
