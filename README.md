@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23263759" style="width: 100px; height: auto;">
+  <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23263759" style="width: 150px; height: auto;">
 </div>
 
 
