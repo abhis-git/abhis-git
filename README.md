@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/abhis-git/count.svg?"  />
-</div>
-
-###
-
 <br>
 
 <div align="center">
@@ -75,5 +69,18 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
  
 ###
-
 <br>
+
+<div align="left">
+  <a href="https://www.instagram.com/abhishekgund03/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://in.linkedin.com/in/abhishek-gund">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:abhishekgund001@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
