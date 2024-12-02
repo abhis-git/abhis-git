@@ -10,17 +10,19 @@
 
 <br><br>
 
-<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
-  
+<div style="display: flex; justify-content: center; align-items: center; background-color: #1b1b1b; padding: 20px; border-radius: 10px; gap: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" alt="abhis-git GitHub stats" style="width: 440px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
+         alt="abhis-git GitHub stats" 
+         style="width: 300px; height: auto;">
   </a>
-  
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" alt="GitHub Streak" style="width: 466px; height: auto;">
+    <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
+         alt="GitHub Streak" 
+         style="width: 300px; height: auto;">
   </a>
-
 </div>
+
 
 <br>
 <div align="left">
