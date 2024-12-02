@@ -1,44 +1,28 @@
 <h1 align="left">Hello there👋<br>Passionate coder exploring cutting-edge tech.</h1>
 
-###
-
 <br>
-
-<div style="display: flex; justify-content: center; align-items: center; background-color: #1b1b1b; padding: 20px; border-radius: 10px;">
-  <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23FFFFFF" alt="Visitor Badge" style="width: 150px; height: auto; filter: brightness(0.8);">
+<div align="center" >
+<div style="display: flex; justify-content: center; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
+  <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23000000" alt="Visitor Badge" style="width: 150px; height: auto; filter: brightness(0.1);">
 </div>
 
-###
-<br>
+</div>
 
-[![abhis-git GitHub stats](https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+<br><br>
 
-<br>
-
-<br>
-
-
-<div align="center" style="background-color: #1b1b1b; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" alt="abhis-git GitHub stats" style="width: calc(100% - 20px); max-width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" alt="abhis-git GitHub stats" style="width: 440px; height: auto;">
   </a>
   
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" alt="GitHub Streak" style="width: calc(100% - 20px); max-width: 400px;">
+    <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" alt="GitHub Streak" style="width: 466px; height: auto;">
   </a>
 
 </div>
 
-
-
-</div>
-
-
 <br>
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -48,10 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
