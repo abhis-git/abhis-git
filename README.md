@@ -12,24 +12,26 @@
 
 <br><br>
 
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"
-                style="display: flex; justify-content: center; align-items: center; height: 100%;">
-                <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400"
-                    alt="abhis-git GitHub stats">
-            </a>
-        </td>
-        <td>
-            <a href="https://git.io/streak-stats"
-                style="display: flex; justify-content: center; align-items: center; height: 100%;">
-                <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true"
-                    alt="GitHub Streak">
-            </a>
-        </td>
-    </tr>
+<table style="width: 100%; height: 100vh; border: 0; margin: 0; padding: 0; background-color: #000000;">
+  <tr style="height: 100%;">
+    <td style="width: 50%; padding: 0; border: none;">
+      <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
+             alt="abhis-git GitHub stats" 
+             style="width: 100%; height: 100%; object-fit: contain; border-radius: 10px;">
+      </a>
+    </td>
+
+<td style="width: 50%; padding: 0; border: none;">
+      <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
+        <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
+             alt="GitHub Streak" 
+             style="width: 100%; height: 100%; object-fit: contain; border-radius: 10px;">
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 <br>
 <br>
