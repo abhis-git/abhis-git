@@ -10,7 +10,7 @@
 
 <br><br>
 
-<div style="display: flex; justify-content: center; align-items: center; background-color: #1b1b1b; padding: 20px; border-radius: 10px; gap: 20px; width: 100%; max-width: 900px; margin: auto;">
+<div style="display: flex; justify-content: center; align-items: center; background-color: #1b1b1b; gap: 20px; width: 50%; max-width: 900px; margin: auto;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; max-width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
          alt="abhis-git GitHub stats" 
@@ -19,7 +19,7 @@
   <a href="https://git.io/streak-stats" style="flex: 2; max-width: 400px;">
     <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
          alt="GitHub Streak" 
-         style="width: 100%; height: auto; border-radius: 10px;">
+         style="width: 50%; height: auto; border-radius: 10px;">
   </a>
 </div>
 
@@ -27,16 +27,9 @@
 
 
 <br>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -73,7 +66,7 @@
 ###
 <br>
 
-<div align="centre">
+<div align="center">
   <a href="https://www.instagram.com/abhishekgund03/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
