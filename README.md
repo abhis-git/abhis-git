@@ -10,7 +10,7 @@
 
 <br><br>
 
-<div style="display: flex; justify-content: center; align-items: center; background-color: #1b1b1b; padding: 20px; border-radius: 10px; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; background-color: #1b1b1b; padding: 20px; border-radius: 10px; gap: 20px; width: 100%; max-width: 900px; margin: auto;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; max-width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
          alt="abhis-git GitHub stats" 
@@ -22,6 +22,7 @@
          style="width: 100%; height: auto; border-radius: 10px;">
   </a>
 </div>
+
 
 
 
