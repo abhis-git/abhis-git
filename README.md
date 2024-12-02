@@ -16,7 +16,7 @@
          alt="abhis-git GitHub stats" 
          style="width: 100%; height: auto; border-radius: 10px;">
   </a>
-  <a href="https://git.io/streak-stats" style="flex: 1; max-width: 400px;">
+  <a href="https://git.io/streak-stats" style="flex: 2; max-width: 400px;">
     <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
          alt="GitHub Streak" 
          style="width: 100%; height: auto; border-radius: 10px;">
