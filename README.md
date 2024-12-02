@@ -34,7 +34,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhis-git&theme=midnight-purple&card_width=48%" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abhis-git&layout=compact&langs_count=8&card_width=52%&theme=midnight-purple" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abhis-git&layout=compact&langs_count=8&card_width=80%&theme=midnight-purple" />
 </a>
 
 <br>
