@@ -13,14 +13,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
-             alt="abhis-git GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="abhis-git GitHub stats">
       </a>
     </td>
   <td>
       <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
-             alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="GitHub Streak">
       </a>
     </td>
   </tr>
@@ -66,7 +64,7 @@
     <a href="https://in.linkedin.com/in/abhishek-gund">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
     </a>
-    <a href="mailto:abhishekgund001@gmail.com">
+    <a href="mailto:abhishekgund01@gmail.com">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
     </a>
 </div>
