@@ -11,17 +11,18 @@
 <br><br>
 
 <div style="display: flex; justify-content: center; align-items: center; background-color: #1b1b1b; padding: 20px; border-radius: 10px; gap: 20px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; max-width: 400px;">
     <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
          alt="abhis-git GitHub stats" 
-         style="width: 300px; height: auto;">
+         style="width: 100%; height: auto; border-radius: 10px;">
   </a>
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats" style="flex: 1; max-width: 400px;">
     <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
          alt="GitHub Streak" 
-         style="width: 300px; height: auto;">
+         style="width: 100%; height: auto; border-radius: 10px;">
   </a>
 </div>
+
 
 
 <br>
