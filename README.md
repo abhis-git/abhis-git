@@ -13,12 +13,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" alt="abhis-git GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" alt="abhis-git GitHub stats">
       </a>
     </td>
   <td>
       <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=transparent&hide_border=true" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" alt="GitHub Streak">
       </a>
     </td>
   </tr>
