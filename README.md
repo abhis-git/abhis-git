@@ -10,25 +10,26 @@
 
 <br><br>
 
-<div style="display: flex; width: 100%; height: 100vh; background-color: #1b1b1b; padding: 20px; box-sizing: border-box;">
-  <!-- Left Partition -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center; border-right: 2px solid #333;">
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
-           alt="abhis-git GitHub stats" 
-           style="width: 80%; max-width: 400px; height: auto; border-radius: 10px;">
-    </a>
-  </div>
+<table style="width: 100%; height: 100vh; border-collapse: collapse; background-color: #1b1b1b; padding: 10px; box-sizing: border-box;">
+  <tr>
+    <td style="width: 50%; padding: 10px; text-align: center;">
+      <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
+             alt="abhis-git GitHub stats" 
+             style="width: 100%; max-width: 400px; height: auto; border-radius: 10px;">
+      </a>
+    </td>
 
-  <!-- Right Partition -->
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <a href="https://git.io/streak-stats" style="display: flex; justify-content: center;">
-      <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
-           alt="GitHub Streak" 
-           style="width: 80%; max-width: 400px; height: auto; border-radius: 10px;">
-    </a>
-  </div>
-</div>
+
+   <td style="width: 50%; padding: 10px; text-align: center;">
+      <a href="https://git.io/streak-stats" style="display: flex; justify-content: center;">
+        <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
+             alt="GitHub Streak" 
+             style="width: 100%; max-width: 400px; height: auto; border-radius: 10px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
