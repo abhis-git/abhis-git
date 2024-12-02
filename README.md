@@ -4,22 +4,39 @@
 
 <br>
 
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23263759" style="width: 150px; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; background-color: #1b1b1b; padding: 20px; border-radius: 10px;">
+  <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23FFFFFF" alt="Visitor Badge" style="width: 150px; height: auto; filter: brightness(0.8);">
 </div>
-
 
 ###
 <br>
 
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![abhis-git GitHub stats](https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
+<br>
+
+
+<div align="center" style="background-color: #1b1b1b; padding: 20px; border-radius: 10px;">
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" alt="abhis-git GitHub stats" style="width: calc(100% - 20px); max-width: 400px;">
+  </a>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" alt="GitHub Streak" style="width: calc(100% - 20px); max-width: 400px;">
+  </a>
+
+</div>
 
 
 
+</div>
+
+
+<br>
 ###
 
 <div align="left">
