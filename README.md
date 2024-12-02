@@ -18,7 +18,7 @@
     </td>
   <td>
       <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true&background=%2CFFFFFF00%2CFFFFFF00" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=transparent&hide_border=true" alt="GitHub Streak">
       </a>
     </td>
   </tr>
