@@ -10,27 +10,35 @@
 
 <br><br>
 
-<table style="width: 100%; height: 100vh; border: 0; margin: 0; padding: 0; background-color: #000000;">
-  <tr style="height: 100%;">
-    <td style="width: 50%; padding: 0; border: none;">
+<table>
+  <tr>
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" 
-             alt="abhis-git GitHub stats" 
-             style="width: 100%; height: 100%; object-fit: contain; border-radius: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true&card_width=400" 
+             alt="abhis-git GitHub stats">
       </a>
     </td>
 
-  <td style="width: 50%; padding: 0; border: none;">
+  <td>
       <a href="https://git.io/streak-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
         <img src="https://streak-stats.demolab.com/?user=abhis-git&theme=midnight-purple&hide_border=true" 
-             alt="GitHub Streak" 
-             style="width: 100%; height: 100%; object-fit: contain; border-radius: 10px;">
+             alt="GitHub Streak" >
       </a>
     </td>
   </tr>
 </table>
 
+<br>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=abhis-git&theme=midnight-purple&card_width=480" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=abhis-git&layout=compact&langs_count=8&card_width=480&theme=midnight-purple" />
+</a>
 
+<br>
+<br>
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -60,15 +68,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
-###
-
 <br>
-
-###
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
- 
-###
+<div align="center" >
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</div>
 <br>
 
 <div align="center">
@@ -82,5 +85,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
