@@ -2,12 +2,9 @@
 
 <br>
 <div align="center">
-    <div
-        style="display: flex; justify-content: center; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
-        <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23000000" alt="Visitor Badge"
-            style="width: 150px; height: auto; filter: brightness(0.1);">
+    <div style="display: flex; justify-content: center; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
+        <img src="https://api.visitorbadge.io/api/visitors?path=abhis-git&countColor=%23000000" alt="Visitor Badge" style="width: 150px; height: auto; filter: brightness(0.1);">
     </div>
-
 </div>
 
 <br><br>
@@ -29,10 +26,7 @@
   </tr>
 </table>
 
-
-<br>
-<br>
-<br>
+<br><br><br>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -40,6 +34,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"alt="spring logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+    <img width="12" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
     <img width="12" />
@@ -49,32 +45,29 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
 </div>
 
-<br>
-<br
+<br><br>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
         alt="Snake Animation">
 </div>
-<br>
-<br>
+
+<br><br>
 
 <div align="center">
     <a href="https://www.instagram.com/abhishekgund03/">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="instagram logo" />
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
     </a>
     <a href="https://in.linkedin.com/in/abhishek-gund">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="linkedin logo" />
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
     </a>
     <a href="mailto:abhishekgund001@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="gmail logo" />
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
     </a>
 </div>
 <br>
