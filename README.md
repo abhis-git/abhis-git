@@ -11,7 +11,7 @@
 
 <table style="width: 100%;">
   <tr>
-    <td bgcolor="gainsboro">
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
         <img src="https://github-readme-stats.vercel.app/api?username=abhis-git&show_icons=true&theme=midnight-purple&hide_border=true" alt="abhis-git GitHub stats">
       </a>
