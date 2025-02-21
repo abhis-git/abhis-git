@@ -9,7 +9,7 @@
 
 <br><br>
 
-<table border="0" style="width: 100%;">
+<table bgcolor="gainsboro" style="width: 100%;">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" style="display: flex; justify-content: center; align-items: center; height: 100%;">
